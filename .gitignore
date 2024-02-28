@@ -1,2 +1,4 @@
 /.conda
 /kaggle.json
+/brain_images
+model.pth
