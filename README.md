@@ -16,6 +16,15 @@ Upload the kaggle.json file on Colab or an IDE, then perform the following comma
 
 The dataset already provides us with 3 separate folders - train, valid, and test; each with its own COCO annotation file. 
 
+## Approach
+# Preprocessing the images
+
+# Working with annotation files
+
+# Transfer learning the model using EfficientNet
+
+# 
+
 
 ## Acknowledgement
 This project is based on an approach proposed by Nature's Scientific Report - *Detection and classification of brain tumors using hybrid deep 
