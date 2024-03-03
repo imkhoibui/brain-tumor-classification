@@ -2,7 +2,9 @@
 /kaggle.json
 /brain_images
 model.pth
+model.py
 annotation.py
 dataset.py
 evaluator.py
 preprocessing.py
+utils.py
